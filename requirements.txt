@@ -1,0 +1,10 @@
+torch
+transformers
+streamlit
+newspaper3k
+pandas
+datasets
+requests
+scikit-learn
+numpy
+
