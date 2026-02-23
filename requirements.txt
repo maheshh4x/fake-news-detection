@@ -8,4 +8,4 @@ requests
 scikit-learn
 numpy
 langdetect
-
+deep-translator
