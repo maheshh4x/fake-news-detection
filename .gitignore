@@ -22,3 +22,8 @@ model/
 # OS files
 .DS_Store
 Thumbs.db
+
+deberta_model/
+*.pt
+*.safetensors
+checkpoint*/
