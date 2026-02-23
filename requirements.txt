@@ -10,3 +10,4 @@ numpy
 langdetect
 deep-translator
 wikipedia
+lxml_html_clean
