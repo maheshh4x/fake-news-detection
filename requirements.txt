@@ -7,4 +7,5 @@ datasets
 requests
 scikit-learn
 numpy
+langdetect
 
