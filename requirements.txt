@@ -16,3 +16,4 @@ beautifulsoup4
 nltk
 sentencepiece
 ddgs
+fpdf2
